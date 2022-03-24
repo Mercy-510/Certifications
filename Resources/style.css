@@ -1,0 +1,13 @@
+.color {
+    background-color:aquamarine;
+}
+
+.heading {
+    color:  #291749;
+    text-align: center;
+    margin: 32px auto;
+}
+
+.btn-primary {
+    background-color: #291749;
+}
